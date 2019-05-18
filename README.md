@@ -50,7 +50,7 @@ Esta misma técnica y la estructura de este mismo bloque podría ser utilizada p
 
 Adjunto imagen con el cableado utilizado :
 
-![1545844654086](https://raw.githubusercontent.com/makerventura/Mundo_FPGA_libre/master/Imagenes/Img_Display7seg_DEC_UNID/diagrama 2 displays 7 segmentos.png)
+![1545844654086](https://raw.githubusercontent.com/makerventura/Mundo_FPGA_libre/master/Imagenes/Img_Display7seg_DEC_UNID/diagrama_2_displays_7segmentos.png)
 
 Elementos electrónicos empleados :
 
